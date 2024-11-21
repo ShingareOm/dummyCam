@@ -27,7 +27,7 @@ To set up the project:
 1. Clone the repository or download the Python script.
 2. Install the required dependencies by running the script:
    ```bash
-   python3 script_name.py
+   python3 dummyCam.py
    ```
 3. The script will:
    - Install the necessary packages (`v4l2loopback-dkms`, `ffmpeg`).
